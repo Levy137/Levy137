@@ -1,11 +1,13 @@
 ## Ola, me chamo Levy Vargas
 
 ### Softskills
-Bom trabalho em equipe
-<p>Bom lider</p>
-<p>Dedicado</p>
-<p>Esforçado</p>
-Paciente
+<ul>
+<li>Bom trabalho em equipe
+<li>Bom lider
+<li>Dedicado
+<li>Esforçado
+<li>Paciente
+</ul>
 
 ### Hardskills
 <div style="display:inline_block">
