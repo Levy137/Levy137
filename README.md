@@ -14,7 +14,7 @@
 <img src="https://github.com/user-attachments/assets/0b8ac17e-fffd-41ee-bfba-ef7728a5a4da"/>
 <img src="https://github.com/user-attachments/assets/9d768c1a-426a-4708-becf-879ea0948fa7"/>
 <img src="https://github.com/user-attachments/assets/059afe9b-a7d9-4886-83de-329d1e9716f3"/>
-<img src="https://i0.wp.com/pt.mundobabushka.com/wp-content/uploads/sites/5/2016/03/js-logo.png?fit=500%2C500&ssl=1"/>
+<img src="https://e7.pngegg.com/pngimages/87/538/png-clipart-javascript-scalable-graphics-logo-encapsulated-postscript-javascript-icon-text-logo-thumbnail.png/>
 <img src=""/>
 <img src=""/>
 <img src=""/>
