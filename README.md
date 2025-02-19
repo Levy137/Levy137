@@ -1,27 +1,105 @@
+# 🧑‍💻 Levy Vargas
 
-## Ola, me chamo Levy Vargas
+**Desenvolvedor FullStack**
 
-### Softskills
-<ul>
-<li>Bom trabalho em equipe
-<li>Bom lider!
-<li>Dedicado
-<li>Esforçado
-<li>Paciente
-</ul>
-
-### Hardskills
-<div style="display:inline_block">
-<img src="https://github.com/user-attachments/assets/0b8ac17e-fffd-41ee-bfba-ef7728a5a4da"/>
-<img src="https://github.com/user-attachments/assets/9d768c1a-426a-4708-becf-879ea0948fa7"/>
-<img src="https://github.com/user-attachments/assets/059afe9b-a7d9-4886-83de-329d1e9716f3"/>
-<img src="https://github.com/user-attachments/assets/55f4f9b5-d334-4746-b0bc-12255e72ed53"/>
-<img src="https://github.com/user-attachments/assets/91a63e24-9d57-4dfe-b9e8-ed8dc730c0ed"/>
-<img src="https://github.com/user-attachments/assets/a30b8a5b-b387-4d2c-a7d2-b4cd1e637667"/>
-<img src=""/>
+Olá!! Meu nome é Levy, tenho 16 anos e sou apaixonado por tecnologia, inovação e desenvolvimento de software. Com foco em Desenvolvimento Web Full Stack, possuo experiência em tecnologias como JavaScript, React.js, Node.js, TypeScript, e MongoDB. Além disso, desenvolvo habilidades em Gestão de Projetos e Administração, complementando meu perfil técnico com visão estratégica.
 
 
+---
 
-</div>
+### 🤖 Linguagens e Tecnologias
 
-![typescript-removebg-preview (2) (1)](https://github.com/user-attachments/assets/a30b8a5b-b387-4d2c-a7d2-b4cd1e637667)
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Bootstrap"
+    title="Bootstrap" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Tailwind" 
+    title="Tailwind"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+/>
+
+
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+
+
