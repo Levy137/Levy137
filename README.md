@@ -10,7 +10,7 @@ Olá!! Meu nome é Levy, tenho 16 anos e sou apaixonado por tecnologia, inovaç�
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
 
-<a target="_blank" href="buchweitzlevy@gmail.com/">
+<a target="_blank" href="mailto:buchweitzlevy@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
 </a>
   
