@@ -8,7 +8,11 @@ Olá!! Meu nome é Levy, tenho 16 anos e sou apaixonado por tecnologia, inovaç�
 <a href="https://github.com/Levy137">
   <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>
 </a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/levy-buchweitz-056492260?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/levy-buchweitz-056492260/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+  
+
 
 
 ---
@@ -108,4 +112,10 @@ Olá!! Meu nome é Levy, tenho 16 anos e sou apaixonado por tecnologia, inovaç�
 />
 <br>
 <br>
+
+
+
+
+
+
 
