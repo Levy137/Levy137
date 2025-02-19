@@ -113,9 +113,7 @@ Olá!! Meu nome é Levy, tenho 16 anos e sou apaixonado por tecnologia, inovaç�
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br>
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Levy137/snake.yml/blob/output/github-contribution-grid-snake.svg)
 
 
 
