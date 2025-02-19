@@ -3,7 +3,11 @@
 **Desenvolvedor FullStack**
 
 Olá!! Meu nome é Levy, tenho 16 anos e sou apaixonado por tecnologia, inovação e desenvolvimento de software. Com foco em Desenvolvimento Web Full Stack, possuo experiência em tecnologias como JavaScript, React.js, Node.js, TypeScript, e MongoDB. Além disso, desenvolvo habilidades em Gestão de Projetos e Administração, complementando meu perfil técnico com visão estratégica.
-
+<br>
+<br>
+<a href="https://github.com/Levy137">
+  <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/>
+</a>
 
 ---
 
