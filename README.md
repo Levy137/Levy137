@@ -11,7 +11,7 @@ Olá!! Meu nome é Levy, tenho 16 anos e sou apaixonado por tecnologia, inovaç�
 </a>
 
 <a target="_blank" href="mailto:buchweitzlevy@gmail.com">
-  <img src="https://www.linkedin.com/in/henrique-viegas-87a767351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"/>
+  <img src=""/>
 </a>
   
 
